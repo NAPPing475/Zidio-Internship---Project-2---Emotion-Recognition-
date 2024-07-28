@@ -8,6 +8,9 @@ Project Overview
 This project aims to recognize emotions from speech using a Long Short-Term Memory (LSTM) neural network. We use the Toronto Emotional Speech Set (TESS) dataset, which consists of recordings of actors saying the same set of phrases in different emotional states. The goal is to build and evaluate a model that can accurately classify the emotion conveyed in the speech.
 
 Key Steps and Features of the Project:
+
+
+
 ***1. Data Loading and Preprocessing***
 
 Import Necessary Libraries: Import essential libraries such as pandas, numpy, librosa, seaborn, matplotlib, and Keras.
